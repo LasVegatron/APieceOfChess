@@ -1,0 +1,7 @@
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\bin\Debug\APeiceOfChess.exe.config
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\bin\Debug\APeiceOfChess.exe
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\bin\Debug\APeiceOfChess.pdb
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\obj\Debug\APeiceOfChess.csprojResolveAssemblyReference.cache
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\obj\Debug\APeiceOfChess.csproj.CoreCompileInputs.cache
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\obj\Debug\APeiceOfChess.exe
+C:\Users\Ruben JL\source\repos\APeiceOfChess\APeiceOfChess\obj\Debug\APeiceOfChess.pdb
